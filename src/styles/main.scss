@@ -1,0 +1,27 @@
+// TAILWIND
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+// SETUP
+
+@import "./setup/typography";
+@import "./setup/variables";
+
+// BASICS
+
+@import "./basics/base";
+@import "./basics/buttons";
+@import "./basics/forms";
+@import "./basics/layout";
+@import "./basics/links";
+
+// VIEWS
+
+// CMPS
+
+@import "./cmps/nav-header";
+
+
+
